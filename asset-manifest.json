@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/roboexperiments/static/css/main.664f8f05.css",
+    "main.js": "/roboexperiments/static/js/main.731638e1.js",
+    "static/js/787.e8f3daa8.chunk.js": "/roboexperiments/static/js/787.e8f3daa8.chunk.js",
+    "static/media/robotaur.woff": "/roboexperiments/static/media/robotaur.a07d8f14c5bb1f53d2bb.woff",
+    "static/media/SEGA.woff": "/roboexperiments/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/roboexperiments/index.html",
+    "main.664f8f05.css.map": "/roboexperiments/static/css/main.664f8f05.css.map",
+    "main.731638e1.js.map": "/roboexperiments/static/js/main.731638e1.js.map",
+    "787.e8f3daa8.chunk.js.map": "/roboexperiments/static/js/787.e8f3daa8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.664f8f05.css",
+    "static/js/main.731638e1.js"
+  ]
+}
